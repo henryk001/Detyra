@@ -1,0 +1,43 @@
+City,Temperature (°C),Windspeed (km/h)
+Berat,8.1,3.3
+Bilisht,-1.8,4.3
+Bulqizë,1.3,14.3
+Burrel,5.6,7.5
+Cërrik,8.3,10.8
+Divjakë,7.8,18.9
+Durrës,7.7,15.8
+Elbasan,6.9,29.2
+Fier,7.9,16.4
+Fushë-Krujë,8.1,5.1
+Gjirokastër,4.8,8.9
+Gramsh,6.9,11.6
+Kamëz,9.0,4.1
+Kavajë,8.6,10.8
+Klos,6.9,4.0
+Korçë,-1.5,14.0
+Krujë,4.8,13.6
+Kuçovë,8.4,20.2
+Kukës,0.8,13.7
+Laç,6.8,18.8
+Lezhë,6.5,31.9
+Librazhd,5.8,20.6
+Lushnjë,7.9,20.9
+Mamurras,7.4,6.8
+Manëz,7.0,11.7
+Milot,6.4,34.9
+Patos,8.4,8.8
+Peshkopi,-0.8,12.5
+Pogradec,-0.7,6.5
+Prrenjas,-0.6,6.4
+Rrëshen,5.4,9.2
+"Request failed for Rrogozhinë: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+Sarandë,9.5,19.4
+"Request failed for Shëngjin: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+Shijak,7.2,8.3
+Shkodër,7.3,18.1
+Sukth,7.3,8.3
+Tirana,9.2,4.6
+Ura Vajgurore,7.9,17.3
+Vau i Dejës,5.6,43.0
+Vlorë,8.9,21.3
+Vorë,8.1,7.2
